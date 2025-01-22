@@ -32,7 +32,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Designer UI</h3>
               <p>
-                Eu projetei varios landing pages e criei sistemas de designer
+                Eu projetei vários landing pages e criei sistemas de designer
               </p>
             </div>
           </li>
