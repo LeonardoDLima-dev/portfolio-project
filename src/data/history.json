@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Desenvolvedor Full-Stack",
+    "organisation": "Copiadora Alternativa",
+    "startDate": "2023",
+    "endDate": "Present",
+    "experiences": ["Desenvolvimento de Web Sites", "Testes"]
+  },
+  {
+    "role": "Análista de Sistemas Pleno",
+    "organisation": "Copiadora Alternativa",
+    "startDate": "2014, 2023",
+    "experiences": ["Desenvolvedor de Sistemas Java", "Testes Automatizados"]
+  },
+  {
+    "role": "Analista de Suporte",
+    "organisation": "StarBit Cursos Profissionalizantes",
+    "startDate": "2010",
+    "endDate": "2010",
+    "experiences": [
+      "Suporte Técnico"
+    ]
+  }
+]

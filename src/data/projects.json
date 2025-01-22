@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Weather",
+    "imageSrc": "projects/weather.png",
+    "skills": ["React", "CSS", "Javascript"],
+    "demo": "https://leonardodlima-dev.github.io/previsao-tempo/",
+    "source": "https://github.com/LeonardoDLima-dev/previsao-tempo"
+  },
+  {
+    "title": "Tela Login",
+    "imageSrc": "projects/tela-login.png",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://tela-login-react-tau.vercel.app/",
+    "source": "https://github.com/LeonardoDLima-dev/tela-login-react"
+  },
+  {
+    "title": "Swole Fit",
+    "imageSrc": "projects/swole-fit.png",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://swoley-fit-virid.vercel.app/",
+    "source": "https://github.com/LeonardoDLima-dev/swoley-fit"
+  }
+]
